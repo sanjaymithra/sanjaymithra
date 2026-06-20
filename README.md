@@ -1,6 +1,7 @@
 # 💫 About Me
 
 I'm Sanjay, a builder driven by curiosity.
+
 Developer • AI Enthusiast • Robotics Explorer
 
 I enjoy exploring new technologies, understanding systems from first principles, and transforming ideas into working products. My interests span AI, robotics, software engineering, automation, and product development.

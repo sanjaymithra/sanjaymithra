@@ -44,9 +44,6 @@ Build intelligent software and robotics systems that solve real-world problems.
  ### Tools
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sanjaymithra&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sanjaymithra&theme=dark&hide_border=false)<br/>
 
 ### Philosophy
 > Learn deeply. Build consistently. Ship real projects.

@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm Sanjay, a builder driven by curiosity.
+I'm Sanjay, a developer driven by curiosity.
 
 Developer • AI Enthusiast • Robotics Explorer
 

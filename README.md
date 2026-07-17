@@ -45,6 +45,6 @@ Build intelligent software and robotics systems that solve real-world problems.
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 
-### Philosophy
+
 > Learn deeply. Build consistently. Ship real projects.
 
